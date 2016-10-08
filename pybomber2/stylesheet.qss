@@ -1,0 +1,14 @@
+QMainWindow {
+    background-color: #ebe2e1;
+    }
+QPushButton {
+    background-color: #7f7d79;
+    /*border-image: url(icons/cage.jpg) 3 10 3 10;*/
+    border-top: 3px transparent;
+    border-bottom: 3px transparent;
+    border-right: 10px transparent;
+    border-left: 10px transparent;
+    }
+QLabel#menu_picture_lbl {
+    border-image: url(icons/bomberman2.svg) 3 10 3 10;
+    }

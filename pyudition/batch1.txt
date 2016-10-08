@@ -1,0 +1,2 @@
+o x.wav x.wav 20 y.wav
+nr y.wav 1000 z.wav
